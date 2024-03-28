@@ -3,7 +3,7 @@
 ##  ABOUT ME
 <p>
 Hi there! I'm Hyunji Park. <br>
-I wanna be a server developer 💖
+I wanna be a server developer 💖 
 </p>
 
 <br>
