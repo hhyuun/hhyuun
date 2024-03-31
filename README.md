@@ -2,8 +2,8 @@
 
 ##  ABOUT ME
 <p>
-Hi there! I'm Hyunji Park. <br>
-I wanna be a server developer 💖 
+Hi there! I'm Hyunji Park💖 <br>
+ 
 </p>
 
 <br>
