@@ -29,13 +29,8 @@ Hi there! I'm Hyunji Park💖 <br>
 </p>
 <br>
 
-### STUDYING..
-<p>
+### 
 
-</p>
-
-  
-  
 </div>
 
 
