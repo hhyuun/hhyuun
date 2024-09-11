@@ -13,10 +13,10 @@ Hi there! I'm Hyunji Park 💖
 - 나만의 글쓰기 웹사이트 [우주정거장] <br>
     2023.12 ~ 2024.2 / [lepo link](https://github.com/space-station-web/SpaceStation-Server)
 
-- 사용자 맞춤형 여행 웹사이트, [[Trip Bridge]](https://tripbridge.co.kr/)<br> 
-    2024.02 ~ 2024.06, 2024.09 / [lepo link](https://github.com/Swyp-team10/molip-backend)   
+- 사용자 맞춤형 여행 웹사이트, [Trip Bridge]<br> 
+    2024.02 ~ 2024.06, 2024.09 / [lepo link](https://github.com/Swyp-team10/molip-backend) / [배포](https://tripbridge.co.kr/)  
 
-- 모두의 입맛을 고려한 메뉴판 서비스, [[모입]](https://www.molip.site/home) <br>
+- 모두의 입맛을 고려한 메뉴판 서비스, [모입] <br>
     2024.07 ~ 2024.12(예정) / [lepo link](https://github.com/Swyp-team10/molip-backend)<br><br>
 
 
