@@ -39,10 +39,3 @@ Hi there! I'm Hyunji Park 💖
 
 <!-- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> -->
 </p>
-<br>
-
-### 
-
-
-
-
