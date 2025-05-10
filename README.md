@@ -1,7 +1,3 @@
-###  ABOUT ME
-Hi there! I'm Hyunji Park 💖
-<br><br>
-
 ### Tech Stack
 
 **Primary**
